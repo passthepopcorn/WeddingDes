@@ -11,7 +11,7 @@
         className: 'sakura', // Class name to use
         fallSpeed: 2.5,        // Factor for petal fall speed
         maxSize: 12,         // Maximum petal size
-        minSize: 9,          // Minimum petal size
+        minSize: 10,          // Minimum petal size
         newOn: 250,          // Interval after which a new petal is added
         
     });
@@ -92,9 +92,9 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 14th Feb, 2021', styles);
+console.log('\n\n%c SAVE THE DATE: 25th Dec, 2023', styles);
 
-console.log('%cYour presence is requested!%c\n\nRegards: Sarthak Jain', styles1, styles2);
+console.log('%cYour presence is requested!%c\n\nRegards: Samyak Nagdive', styles1, styles2);
 
 console.log(
     `%c शादी में जलूल जलूल आना होगा \n\n`,
